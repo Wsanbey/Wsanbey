@@ -1,20 +1,32 @@
-## Olá! Eu sou o Wsanbey 👋
+# Olá! Eu sou o Wsanbey 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welry-silva-9b12b222b)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/welry-sanbey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](welry.contato@gmail.com)
+
+
+## Sobre Mim
+
+Olá! Sou Welry Silva, um entusiasta da programação e apaixonado por tecnologia. Tenho como objetivo contribuir para projetos que impactem positivamente a sociedade, por meio da minha habilidade em desenvolvimento de software.
+
+## GitHub Stats
 
 ![Wsanbey GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsanbey&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsanbey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-### Tecnologias que eu uso no meu dia
-<div style="display: inline_block">
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="CSS3" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div><br>
-Um dia meus programas vão ajudar a humanidade a ser mais feliz!<br>
+## Principais Linguagens
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsanbey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologias que Uso
+
+- Linguagens de Programação: C, Java, JavaScript
+- FrameWork: Spring Boot
+- Banco de Dados: MySQL
+- Desenvolvimento Web: HTML5, CSS3
+- Um entusiasta que acredita que a tecnologia é capaz de transformar o mundo e trazer felicidade à humanidade.
+
+## Contato
+
+Fique à vontade para entrar em contato comigo através do LinkedIn ou por e-mail (welry.contato@gmail.com). Estou sempre aberto a novas oportunidades e colaborações.
+
+
 
