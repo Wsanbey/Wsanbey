@@ -25,7 +25,7 @@ Olá, sou Welry Silva, um entusiasta da programação e apaixonado por tecnologi
 Como apaixonado por tecnologia, acredito no poder transformador da inovação. Minha experiência abrange desde linguagens robustas como C e Java até o dinamismo do desenvolvimento web com HTML5 e CSS3, passando pelo ecossistema Spring Boot e a versatilidade do JavaScript.
 ## Projeto Destacado
 
-- [Currículo Pessoal](https://wsanbey.github.io/Curr-culo-Pessoal/): Desenvolvi meu currículo online para oferecer uma apresentação interativa e moderna das minhas habilidades, experiências e conquistas. Utilizando HTML5 e CSS3, criei um design simples e rápido, focado em destacar habilidades básicas, porém essenciais, de maneira eficaz.
+- [Currículo Pessoal](https://wsanbey.github.io/Curriculo-Pessoal/): Desenvolvi meu currículo online para oferecer uma apresentação interativa e moderna das minhas habilidades, experiências e conquistas. Utilizando HTML5 e CSS3, criei um design simples e rápido, focado em destacar habilidades básicas, porém essenciais, de maneira eficaz.
 
 ## Experiência Profissional
 
