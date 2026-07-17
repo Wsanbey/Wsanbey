@@ -10,7 +10,7 @@
 
 <p align="center">Desenvolvedor Backend & Automacao com IA | 6+ anos de experiencia em sistemas escalaveis, APIs REST e automacao de processos.
 Busco oportunidades como Desenvolvedor Backend ou Engenheiro de Automacao.
-  
+
 #
 
 <img align="right" alt="Coding" height="190px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -61,6 +61,91 @@ Busco oportunidades como Desenvolvedor Backend ou Engenheiro de Automacao.
   </a>
 </div>
 
+---
+
+### Projetos em Destaque
+
+#### Google Maps Scraper
+Web scraper para extracao de dados do Google Maps
+- **Stack:** Python, BeautifulSoup, Pandas
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Google-Maps-Scrapper)
+
+#### Dental Odonto Scraper
+Sistema de scraping especializado em dados odontologicos
+- **Stack:** Python, JavaScript
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Dental_Odonto_Scraper)
+
+#### Sistema de Contratos Publicos
+Painel web para gestao de contratos publicos
+- **Stack:** Vue.js, JavaScript
+- **Status:** Em desenvolvimento
+- [Repositorio](https://github.com/Wsanbey/Sistema-de-Gestao-de-Contratos-Publicos)
+
+#### Loto API
+API REST para consulta de resultados de loterias
+- **Stack:** Java, Spring Boot
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Loto_API)
+
+---
+
+### Experiencia Profissional
+
+**Desenvolvedor Backend & Automacao**
+- Desenvolvimento de APIs REST escalaveis
+- Integracao de sistemas e APIs externas
+- Automacao de processos com Python e n8n
+- Web scraping e extracao de dados
+- Gerenciamento de bancos de dados (MySQL, MongoDB)
+
+**Ferramentas & Tecnologias:**
+- Backend: Python, PHP, Java, Node.js
+- Frontend: HTML5, CSS3, JavaScript, Vue.js
+- Bancos: MySQL, MongoDB, PostgreSQL
+- DevOps: Docker, Git, CI/CD
+- Automacao: n8n, Python scripts
+
+---
+
+### Estatisticas
+
+- **Repositorios:** 93+ (publicos)
+- **Linguagens:** Python, Java, JavaScript, TypeScript, PHP
+- **Foco:** Backend, Automacao, IA, Web Scraping
+
+---
+
+### Objetivo Profissional
+
+Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao**, onde posso aplicar minha experiencia em:
+- Desenvolvimento de APIs escalaveis
+- Automacao de processos com IA
+- Integracao de sistemas
+- Web scraping e extracao de dados
+
+**Pretensao salarial:** R$2.000 - R$3.500/mes
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/welry-sanbey)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:welry.contato@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://welrysanbey.ct.ws)
+
+---
+
+### Frase Favorita
+
+> "Automacao + IA = Futuro do Desenvolvimento"
+
+---
+
+### Obrigado por visitar meu perfil!
+
+Se voce esta procurando um desenvolvedor dedicado e apaixonado por tecnologia, entre em contato! Vamos construir algo incrivel juntos! 🚀
 
 #
 
