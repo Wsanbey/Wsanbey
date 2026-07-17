@@ -1,74 +1,122 @@
-# Olá! Eu sou o Welry Silva 👋
+# Ola! Eu sou o Welry Sanbey ðŸ‘‹
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://welrysanbey.ct.ws/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welry-sanbey/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:welry.contato@gmail.com)
+## ðŸš€ Desenvolvedor Backend & AutomaÃ§Ã£o com IA
 
+### Sobre Mim
+Desenvolvedor com 6+ anos de experiencia em desenvolvimento de sistemas, automacao de processos e integracao de APIs. Focado em solucoes escalaveis e eficientes.
 
-## Sobre Mim
+**Localizacao:** Paulista, PE, Brasil  
+**Email:** welry.contato@gmail.com  
+**LinkedIn:** [welry-sanbey](https://linkedin.com/in/welry-sanbey)  
+**Portfolio:** [welrysanbey.ct.ws](https://welrysanbey.ct.ws)
 
-Olá, sou Welry Silva, um entusiasta da programação e apaixonado por tecnologia. Meu objetivo é contribuir para projetos que transformem desafios em soluções inovadoras, impactando positivamente a sociedade por meio do desenvolvimento de software.
+---
 
-## GitHub Stats
+### ðŸ› ï¸ Tecnologias & Ferramentas
 
-![Welry Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Wsanbey&show_icons=true&theme=dracula)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-## Principais Linguagens
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsanbey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### ðŸ“Š GitHub Stats
 
-## Tecnologias que Uso
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wsanbey&show_icons=true&theme=dracula&hide_border=true)
 
-- **Linguagens de Programação:** C, Java, JavaScript
-- **Framework:** Spring Boot
-- **Banco de Dados:** MySQL
-- **Desenvolvimento Web:** HTML5, CSS3
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wsanbey&layout=compact&theme=dracula&hide_border=true)
 
-Como apaixonado por tecnologia, acredito no poder transformador da inovação. Minha experiência abrange desde linguagens robustas como C e Java até o dinamismo do desenvolvimento web com HTML5 e CSS3, passando pelo ecossistema Spring Boot e a versatilidade do JavaScript.
-## Projeto Destacado
+---
 
-- [Currículo Pessoal](https://wsanbey.github.io/Curriculo-Pessoal/): Desenvolvi meu currículo online para oferecer uma apresentação interativa e moderna das minhas habilidades, experiências e conquistas. Utilizando HTML5 e CSS3, criei um design simples e rápido, focado em destacar habilidades básicas, porém essenciais, de maneira eficaz.
+### ðŸ”¥ Projetos em Destaque
 
-## Experiência Profissional
+#### ðŸ—ºï¸ Google Maps Scraper
+Web scraper para extracao de dados do Google Maps
+- **Stack:** Python, BeautifulSoup, Pandas
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Google-Maps-Scrapper)
 
-* **Desenvolvedor de Software | Instituto Federal de Pernambuco**
-  - Contribuí para o desenvolvimento de sistemas robustos em Spring Boot (Java), impactando diretamente a eficiência operacional.
+#### ðŸ¥ Dental Odonto Scraper
+Sistema de scraping especializado em dados odontologicos
+- **Stack:** Python, JavaScript
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Dental_Odonto_Scraper)
 
-* **Fundador Startup em Desenvolvimento | Empresa Própria**
-  - Aprendendo na prática, utilizando tecnologias web: React, HTML, CSS e JavaScript.
+#### ðŸ“‹ Sistema de Contratos Publicos
+Painel web para gestao de contratos publicos
+- **Stack:** Vue.js, JavaScript
+- **Status:** Em desenvolvimento
+- [Repositorio](https://github.com/Wsanbey/Sistema-de-Gestao-de-Contratos-Publicos)
 
-# Educação
+#### ðŸŽ° Loto API
+API REST para consulta de resultados de loterias
+- **Stack:** Java, Spring Boot
+- **Status:** Ativo
+- [Repositorio](https://github.com/Wsanbey/Loto_API)
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas | Instituto Federal de Pernambuco**
+---
 
-- **Desenvolvimento Fundamentado:**
-  - Iniciação prática em informática e introdução à programação.
-  - Fortalecimento em lógica aplicada e matemática para aplicação direta em sistemas.
+### ðŸŽ¯ Experiencia Profissional
 
-- **Construção de Bases Tecnológicas:**
-  - Arquitetura de Computadores e Linguagem de Programação Orientada a Objetos.
-  - Domínio em Bancos de Dados I e II para gerenciamento eficiente de dados.
+**Desenvolvedor Backend & Automacao**
+- Desenvolvimento de APIs REST escalaveis
+- Integracao de sistemas e APIs externas
+- Automacao de processos com Python e n8n
+- Web scraping e extracao de dados
+- Gerenciamento de bancos de dados (MySQL, MongoDB)
 
-- **Sólida Proficiência em Desenvolvimento Web:**
-  - Desenvolvimento de Sistemas Web I, II e III.
-  - Prática em sistemas distribuídos e segurança da informação.
+**Ferramentas & Tecnologias:**
+- Backend: Python, PHP, Java, Node.js
+- Frontend: HTML5, CSS3, JavaScript, Vue.js
+- Bancos: MySQL, MongoDB, PostgreSQL
+- DevOps: Docker, Git, CI/CD
+- Automacao: n8n, Python scripts
 
-- **Foco Corporativo:**
-  - Desenvolvimento de Software Corporativo e Modelagem de Processos de Negócio.
-  - Experiência em Gerenciamento de Projetos, essencial para ambientes corporativos.
+---
 
-- **Adaptabilidade ao Mercado Móvel:**
-  - Programação para Dispositivos Móveis para atender às demandas em constante evolução.
+### ðŸ“ˆ Estatisticas
 
-- **Aspectos Éticos e Sociais:**
-  - Ética e Responsabilidade Socioambiental em TI.
-  - Libras para ampliar a comunicação inclusiva.
+- **Repositorios:** 93+ (publicos)
+- **Linguagens:** Python, Java, JavaScript, TypeScript, PHP
+- **Foco:** Backend, Automacao, IA, Web Scraping
 
-- **Preparação para o Mundo Profissional:**
-  - Empreendedorismo em Negócios de TIC.
-  - Engenharia de Requisitos e Engenharia de Software. 
- 
+---
 
-## Contato
+### ðŸŽ¯ Objetivo Profissional
 
-Estou sempre aberto a novas oportunidades e colaborações. Se você procura um desenvolvedor apaixonado e comprometido, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/welry-sanbey/) ou envie um e-mail para [welry.contato@gmail.com](mailto:welry.contato@gmail.com). Vamos criar algo incrível juntos! 🚀
+Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao**, onde posso aplicar minha experiencia em:
+- Desenvolvimento de APIs escalaveis
+- Automacao de processos com IA
+- Integracao de sistemas
+- Web scraping e extracao de dados
+
+**Pretensao salarial:** R.000 - R.500/mes
+
+---
+
+### ðŸ“« Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/welry-sanbey)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:welry.contato@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://welrysanbey.ct.ws)
+
+---
+
+### âš¡ Frase Favorita
+
+> "Automacao + IA = Futuro do Desenvolvimento"
+
+---
+
+### ðŸ™ Obrigado por visitar meu perfil!
+
+Se voce esta procurando um desenvolvedor dedicado e apaixonado por tecnologia, entre em contato! Vamos construir algo incrivel juntos! ðŸš€
