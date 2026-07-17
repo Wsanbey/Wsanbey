@@ -1,6 +1,6 @@
-# Ola! Eu sou o Welry Sanbey ðŸ‘‹
+# Ola! Eu sou o Welry Sanbey
 
-## ðŸš€ Desenvolvedor Backend & AutomaÃ§Ã£o com IA
+## Desenvolvedor Backend & Automacao com IA
 
 ### Sobre Mim
 Desenvolvedor com 6+ anos de experiencia em desenvolvimento de sistemas, automacao de processos e integracao de APIs. Focado em solucoes escalaveis e eficientes.
@@ -12,7 +12,7 @@ Desenvolvedor com 6+ anos de experiencia em desenvolvimento de sistemas, automac
 
 ---
 
-### ðŸ› ï¸ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -29,7 +29,7 @@ Desenvolvedor com 6+ anos de experiencia em desenvolvimento de sistemas, automac
 
 ---
 
-### ðŸ“Š GitHub Stats
+### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wsanbey&show_icons=true&theme=dracula&hide_border=true)
 
@@ -37,27 +37,27 @@ Desenvolvedor com 6+ anos de experiencia em desenvolvimento de sistemas, automac
 
 ---
 
-### ðŸ”¥ Projetos em Destaque
+### Projetos em Destaque
 
-#### ðŸ—ºï¸ Google Maps Scraper
+#### Google Maps Scraper
 Web scraper para extracao de dados do Google Maps
 - **Stack:** Python, BeautifulSoup, Pandas
 - **Status:** Ativo
 - [Repositorio](https://github.com/Wsanbey/Google-Maps-Scrapper)
 
-#### ðŸ¥ Dental Odonto Scraper
+#### Dental Odonto Scraper
 Sistema de scraping especializado em dados odontologicos
 - **Stack:** Python, JavaScript
 - **Status:** Ativo
 - [Repositorio](https://github.com/Wsanbey/Dental_Odonto_Scraper)
 
-#### ðŸ“‹ Sistema de Contratos Publicos
+#### Sistema de Contratos Publicos
 Painel web para gestao de contratos publicos
 - **Stack:** Vue.js, JavaScript
 - **Status:** Em desenvolvimento
 - [Repositorio](https://github.com/Wsanbey/Sistema-de-Gestao-de-Contratos-Publicos)
 
-#### ðŸŽ° Loto API
+#### Loto API
 API REST para consulta de resultados de loterias
 - **Stack:** Java, Spring Boot
 - **Status:** Ativo
@@ -65,7 +65,7 @@ API REST para consulta de resultados de loterias
 
 ---
 
-### ðŸŽ¯ Experiencia Profissional
+### Experiencia Profissional
 
 **Desenvolvedor Backend & Automacao**
 - Desenvolvimento de APIs REST escalaveis
@@ -83,7 +83,7 @@ API REST para consulta de resultados de loterias
 
 ---
 
-### ðŸ“ˆ Estatisticas
+### Estatisticas
 
 - **Repositorios:** 93+ (publicos)
 - **Linguagens:** Python, Java, JavaScript, TypeScript, PHP
@@ -91,7 +91,7 @@ API REST para consulta de resultados de loterias
 
 ---
 
-### ðŸŽ¯ Objetivo Profissional
+### Objetivo Profissional
 
 Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao**, onde posso aplicar minha experiencia em:
 - Desenvolvimento de APIs escalaveis
@@ -99,11 +99,11 @@ Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao*
 - Integracao de sistemas
 - Web scraping e extracao de dados
 
-**Pretensao salarial:** R.000 - R.500/mes
+**Pretensao salarial:** R$2.000 - R$3.500/mes
 
 ---
 
-### ðŸ“« Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/welry-sanbey)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:welry.contato@gmail.com)
@@ -111,12 +111,12 @@ Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao*
 
 ---
 
-### âš¡ Frase Favorita
+### Frase Favorita
 
 > "Automacao + IA = Futuro do Desenvolvimento"
 
 ---
 
-### ðŸ™ Obrigado por visitar meu perfil!
+### Obrigado por visitar meu perfil!
 
-Se voce esta procurando um desenvolvedor dedicado e apaixonado por tecnologia, entre em contato! Vamos construir algo incrivel juntos! ðŸš€
+Se voce esta procurando um desenvolvedor dedicado e apaixonado por tecnologia, entre em contato! Vamos construir algo incrivel juntos!
