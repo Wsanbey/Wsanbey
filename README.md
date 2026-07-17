@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Wsanbey">
-    <img src="https://img.shields.io/badge/-Welry%20Sanbey-000?style=for-the-badge&logo=github&logoColor=00D4FF&color:FFF" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Welry%20Sanbey-000?style=for-the-badge&logo=github&logoColor=00D4FF&color=FFF" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/welry-sanbey">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -125,17 +125,6 @@ API REST para consulta de resultados de loterias
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
----
-
-### Destaques
-
-| Projeto | Tecnologia | Descricao |
-|---------|------------|-----------|
-| [Google Maps Scraper](https://github.com/Wsanbey/Google-Maps-Scrapper) | Python | Extracao de dados de negocios |
-| [Dental Odonto Scraper](https://github.com/Wsanbey/Dental_Odonto_Scraper) | Python | Scraping odontologico |
-| [Sistema Contratos](https://github.com/Wsanbey/Sistema-de-Gestao-de-Contratos-Publicos) | Vue.js | Gestao de contratos publicos |
-| [Loto API](https://github.com/Wsanbey/Loto_API) | Java | API de resultados de loteria |
 
 ---
 
