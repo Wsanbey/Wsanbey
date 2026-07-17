@@ -8,8 +8,12 @@
 
 #
 
-<p align="center">Desenvolvedor Backend & Automacao com IA | 6+ anos de experiencia em sistemas escalaveis, APIs REST e automacao de processos.
-Busco oportunidades como Desenvolvedor Backend ou Engenheiro de Automacao.
+<p align="center">
+  <b>Desenvolvedor Backend & Automacao com IA</b><br>
+  Transformo ideias em codigo eficiente. Especializado em APIs REST, automacao de processos e web scraping.<br>
+  Acredito que automacao + IA e o futuro do desenvolvimento.<br><br>
+  <i>Disponivel para oportunidades como Desenvolvedor Backend ou Engenheiro de Automacao.</i>
+</p>
 
 #
 
@@ -89,39 +93,26 @@ API REST para consulta de resultados de loterias
 
 ---
 
-### Experiencia Profissional
+### O que eu faco
 
-**Desenvolvedor Backend & Automacao**
-- Desenvolvimento de APIs REST escalaveis
-- Integracao de sistemas e APIs externas
-- Automacao de processos com Python e n8n
-- Web scraping e extracao de dados
-- Gerenciamento de bancos de dados (MySQL, MongoDB)
-
-**Ferramentas & Tecnologias:**
-- Backend: Python, PHP, Java, Node.js
-- Frontend: HTML5, CSS3, JavaScript, Vue.js
-- Bancos: MySQL, MongoDB, PostgreSQL
-- DevOps: Docker, Git, CI/CD
-- Automacao: n8n, Python scripts
+```
+🔧 Backend & APIs      → Python, Java, Node.js, PHP
+🤖 Automacao           → n8n, scripts Python, workflows
+🌐 Web Scraping        → Extracao de dados automatizada
+🗄️ Bancos de Dados     → MySQL, MongoDB, PostgreSQL
+🚀 DevOps              → Docker, Git, CI/CD
+```
 
 ---
 
-### Estatisticas
+### Destaques
 
-- **Repositorios:** 93+ (publicos)
-- **Linguagens:** Python, Java, JavaScript, TypeScript, PHP
-- **Foco:** Backend, Automacao, IA, Web Scraping
-
----
-
-### Objetivo Profissional
-
-Busco oportunidades como **Desenvolvedor Backend** ou **Engenheiro de Automacao**, onde posso aplicar minha experiencia em:
-- Desenvolvimento de APIs escalaveis
-- Automacao de processos com IA
-- Integracao de sistemas
-- Web scraping e extracao de dados
+| Projeto | Tecnologia | Descricao |
+|---------|------------|-----------|
+| [Google Maps Scraper](https://github.com/Wsanbey/Google-Maps-Scrapper) | Python | Extracao de dados de negocios |
+| [Dental Odonto Scraper](https://github.com/Wsanbey/Dental_Odonto_Scraper) | Python | Scraping odontologico |
+| [Sistema Contratos](https://github.com/Wsanbey/Sistema-de-Gestao-de-Contratos-Publicos) | Vue.js | Gestao de contratos publicos |
+| [Loto API](https://github.com/Wsanbey/Loto_API) | Java | API de resultados de loteria |
 
 ---
 
